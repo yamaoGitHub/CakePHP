@@ -1,1 +1,3 @@
- CakePHP PostgreSQL Apache 
+ CakePHP 
+  -Apache 
+  -PostgreSQL 
